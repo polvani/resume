@@ -6,6 +6,8 @@
 
 [MIT](http://www.mit.edu), PhD 1988
 
+## research interests ##
 
+climate dynamics
 
 

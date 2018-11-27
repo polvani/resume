@@ -1,6 +1,6 @@
 # lorenzo polvani #
 
-![my alter ego](https://www.footballdatabase.eu/images/photos/players/a_242/242253.jpg)
+![my alter ego](https://www.columbia.edu/~lmp/lmp.jpg)
 
 ## education ##
 

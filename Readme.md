@@ -1,6 +1,6 @@
 # lorenzo polvani #
 
-![my alter ego](https://www.columbia.edu/~lmp/lmp.jpg)
+![my alter ego](http://www.columbia.edu/~lmp/lmp.jpg)
 
 ## education ##
 

@@ -9,5 +9,3 @@
 ## research interests ##
 
 climate dynamics
-
-
